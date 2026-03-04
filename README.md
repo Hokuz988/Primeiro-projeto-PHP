@@ -23,4 +23,4 @@ Um sistema simples em PHP para gerenciar uma coleção de jogos via linha de com
 2. Abra o terminal na pasta do arquivo
 3. Execute:
 ```bash
-php jogos.php
+php index.php
