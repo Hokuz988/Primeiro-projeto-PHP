@@ -19,7 +19,7 @@ Um sistema simples em PHP para gerenciar uma coleção de jogos via linha de com
 
 ### Executando o programa
 
-1. Salve o código em um arquivo (ex: `jogos.php`)
+1. Salve o código
 2. Abra o terminal na pasta do arquivo
 3. Execute:
 ```bash
